@@ -1,0 +1,8 @@
+# All paths' origin is $_SERVER["DOCUMENT_ROOT"].
+
+[paths]
+# Directory where your pages should be saved.
+pages_dir = "/pages"
+
+
+# components_dir is ./src/js/plugins, since components are built with JS and I am NOT using eval()
